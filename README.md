@@ -8,6 +8,8 @@ What I cover in this Repo:
 - Getting User Input using Java Scanners
 - Different Java Keywords (Reserved Words)
 - Different Java Data Types
+- Using the Java Random Libary (generate random Numbers)
+- Using and manipulating Arrays
 
 
 Enjoy,
