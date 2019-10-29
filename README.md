@@ -11,6 +11,10 @@ What I cover in this Repo:
 - Using the Java Random Libary (generate random Numbers)
 - Using and manipulating Arrays
 
+Upcoming:
+- Instant Messenger (maybe including basic Cryptography)
+- Image Resizer + PDf Resizer
+- Java Chat Bot (in Progress --> Basic_Java_Chatbot repo)
 
 Enjoy,
 
