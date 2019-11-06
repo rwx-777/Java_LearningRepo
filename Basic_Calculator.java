@@ -8,7 +8,7 @@ public class main {
 		
 		
 		int number1;
-		int ScheiseNumber;
+		int number2;
 		
 		char operator;
 		
@@ -21,18 +21,18 @@ public class main {
 		operator = reader.next().charAt(0);
 		
 		System.out.println("Enter second Number: ");
-		ScheiseNumber = reader.nextInt();
+		number2 = reader.nextInt();
 		
 		
 		
 		if(operator == '+') {
-			result = number1 + ScheiseNumber;
+			result = number1 + number2;
 		}else if (operator == '-') {
-			result = number1 - ScheiseNumber;
+			result = number1 - number2;
 		}else if(operator == '/') {
-			result = number1 / ScheiseNumber;
+			result = number1 / number2;
 		}else if(operator == '*') {
-			result = number1 * ScheiseNumber;
+			result = number1 * number2;
 		}else {
 			System.out.println("Invalid Operator");
 		}
