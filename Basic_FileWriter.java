@@ -1,3 +1,7 @@
+//2019 Java Learning Repo
+//Basic File Writer V1
+//written by rwx777
+
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 
