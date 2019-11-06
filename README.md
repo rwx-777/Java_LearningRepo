@@ -10,6 +10,7 @@ What I cover in this Repo:
 - Different Java Data Types
 - Using the Java Random Libary (generate random Numbers)
 - Using and manipulating Arrays
+- Using different Methods and calling them
 
 Upcoming:
 - Instant Messenger (maybe including basic Cryptography)
