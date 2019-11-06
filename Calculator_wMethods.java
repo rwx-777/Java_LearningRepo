@@ -1,3 +1,7 @@
+//2019 Java Learning Repo
+//Basic Calculator V2
+//written by rwx777
+
 import java.util.Scanner;
 
 public class Calculator_wMethods {
