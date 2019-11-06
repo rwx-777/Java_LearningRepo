@@ -12,10 +12,16 @@ What I cover in this Repo:
 - Using and manipulating Arrays
 - Using different Methods and calling them
 
-Upcoming:
+To do:
 - Instant Messenger (maybe including basic Cryptography)
 - Image Resizer + PDf Resizer
 - Java Chat Bot (in Progress --> Basic_Java_Chatbot repo)
+
+Done:
+- Calculator (2 Versions)
+- MadLips Game with UserInput & RandomNumGenerator
+
+
 
 Enjoy,
 
