@@ -10,23 +10,23 @@ public class Anakonda {//Name der Klasse
 	
 	
 	public static void main(String[] args) { //Main Methode
-		System.out.println("Hello"); //Erster Befehl
+		System.out.println("Hello"); //First Command
 		
-		//Datentyp | Name von Variable | Wert
-		String Pole1 = "Krispin"; //Datentyp für Buchstaben
-		int Alter = 29; //Datentyp für Zahlen
+		//Datatype | Name of the Variable | Value
+		String Pole1 = "Krispin"; //String stores Letters
+		int Alter = 29; //Int stores Numbers
 		
 		System.out.println(Pole1 + " ist " + Alter + " jahre alt.");
 		
-		System.out.println(Pole1.length()); //gibt die Zahl der Buchstaben zurück
+		System.out.println(Pole1.length()); //returns the length of the variables Value
 		
 		Hallo_Methode("Nowak");
 		
 	//##################################################################	
 		
-		//FACEBOOK LOGIN BEISPIEL CODE
+		//FACEBOOK LOGIN Example Code
 		
-		//Dein Passwort muss at least 4 Zeichen lang sein
+		//Your Password must be at least 4 Characters long
 		String password = "abcd";
 		String RichtigePassword = "abcd";
 		
