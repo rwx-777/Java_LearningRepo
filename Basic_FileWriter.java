@@ -15,12 +15,12 @@ public class Basic_FileWriter {
 			
 			out.println(Text_to_Write); //Text gets printed out into the File 
 			
+			//if you see this then everything is fine
+			System.out.println("All Done Sir");
+			
 		}catch (FileNotFoundException e) {
 			e.printStackTrace(); //Print out Errors if something goes wrong
 		}
-		
-		//if you see this then everything is fine
-		System.out.println("All Done Sir");
 
 	}
 
