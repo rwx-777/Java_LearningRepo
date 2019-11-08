@@ -56,6 +56,7 @@ public class Calculator_wMethods {
 		}
 		System.out.println("Your result is: ");
 		System.out.println(result);
+		reader.close();
 	}
 
 }
