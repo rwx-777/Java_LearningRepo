@@ -11,8 +11,10 @@ What I cover in this Repo:
 - Using the Java Random Libary (generate random Numbers)
 - Using and manipulating Arrays
 - Using different Methods and calling them
+- Write Text to a File & Append Text to a File
 
 To do:
+- remux (Java Terminal Emulator) kinda
 - Instant Messenger (maybe including basic Cryptography)
 - Image Resizer + PDf Resizer
 - Java Chat Bot (in Progress --> Basic_Java_Chatbot repo)
