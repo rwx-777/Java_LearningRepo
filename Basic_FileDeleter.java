@@ -10,7 +10,7 @@ import java.nio.file.NoSuchFileException;
 import java.nio.file.Paths;
 import java.util.Scanner;
 
-public class FileDeleter {
+public class Basic_FileDeleter {
 
 	public static void main(String[] args) {
 
@@ -38,7 +38,7 @@ public class FileDeleter {
 			System.out.println("Invalid permissions.");
 			System.out.println("Deletion not successful.");
 		}
-
+		reader.close();
 	}
 
 }
