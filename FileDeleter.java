@@ -30,11 +30,13 @@ public class FileDeleter {
 
 		} catch (NoSuchFileException e) {
 			System.out.println("No such file or Directory.");
+			System.out.println("Deletion not successful.");
 		} catch (DirectoryNotEmptyException e) {
 			System.out.println("Directory is not empty.");
 			System.out.println("Deletion not successful.");
 		} catch (IOException e) {
 			System.out.println("Invalid permissions.");
+			System.out.println("Deletion not successful.");
 		}
 
 	}
