@@ -12,6 +12,7 @@ What I cover in this Repo:
 - Using and manipulating Arrays
 - Using different Methods and calling them
 - Write Text to a File & Append Text to a File
+- Time code to get execution time in Millis & Seconds
 
 To do:
 - remux (Java Terminal Emulator) kinda
@@ -22,6 +23,7 @@ To do:
 Done:
 - Calculator (2 Versions)
 - MadLips Game with UserInput & RandomNumGenerator
+- Basic File Deleter (w UserInput, Error Handling & Timer)
 
 
 
